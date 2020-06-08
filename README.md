@@ -96,6 +96,7 @@ English | [简体中文](https://github.com/Yuuki-Sakura/Fluent-UI/blob/master/R
   + TabViewItemCloseOverlayMode
     - Always
     - OnHover 
+    - Close
 
 ### Scrolling
 * ScrollViewer ❌
@@ -121,6 +122,10 @@ English | [简体中文](https://github.com/Yuuki-Sakura/Fluent-UI/blob/master/R
 + RichEditBox ❌
 + PasswordBox ❌
 + NumberBox ❌
+
+### Shell
+* Tile ✔
+* Toast ✔
 
 ## Changelog
 
